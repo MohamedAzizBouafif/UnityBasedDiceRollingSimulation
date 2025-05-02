@@ -1,5 +1,8 @@
 # 🎲 Unity Dice Roll Simulation
 
+![Gameplay Demo](./Assets/GamePlay.gif)
+
+
 A Unity-based simulation for rolling two 3D dice using physics-based motion and result detection. Each dice roll is randomized with force and torque, and the final values are determined using trigger detection. The dice results are displayed on screen with smooth animations.
 
 ## 🧩 Features
